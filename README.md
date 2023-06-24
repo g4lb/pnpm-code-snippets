@@ -1,7 +1,5 @@
 # PNPM - Code Snippets
 
-To demonstrate the migration process from npm to PNPM, we have created two example projects: one using npm and the other utilizing PNPM. You can find the projects on GitHub and explore the differences in their setup and dependency management.
-
 ## Project using npm: npm-app
 
 This project is an example of utilizing npm as the package manager with the Express package.
